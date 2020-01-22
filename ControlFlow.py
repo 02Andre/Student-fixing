@@ -1,3 +1,4 @@
+#Programmer:Andre date: 1-22-2020 ForLoop
 myNumber = 7
 
 print("\nGuess a number between 1 & 10\n")
