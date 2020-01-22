@@ -1,12 +1,11 @@
-#Programmer:Andre date: 1-22-2020 ForLoop
+
 sum = 0
 number_of_numbers = int(input("How many numbers would you like to sum? "))
-
 print("")
 for i in range(number_of_numbers):
     next = int(input("Enter a number: "))
     sum = sum + next
-
+#Programmer:Andre date: 1-22-2020 ForLoop
 print ("")
 print ("Sum: " + str(sum))
 
@@ -15,7 +14,7 @@ how_many_tests = int(input("How many test do you need to average? "))
 
 print("\n\t***********\n")
 
-for i in range(how many tests):
+for i in range(how_many_tests):
     score = float(input("Enter a score: "))
     total = total + score
 average = total / how_many_tests
