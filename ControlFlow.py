@@ -1,3 +1,4 @@
+#Programmer:Andre date: 1-22-2020 ForLoop
 sum = 0
 number_of_numbers = int(input("How many numbers would you like to sum? "))
 
