@@ -9,8 +9,13 @@ while guess != myNumber:
     guess = int(input("Enter a Guess: "))
 
 print("\nCongrats, you guessed my number")
+
+print("\n\t***********\n")
+
 x = 1
 
 while x <= 10:
     print (x)
     x = x + 1
+    
+print("\n\t***********\n")
