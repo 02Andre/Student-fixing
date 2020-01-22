@@ -1,4 +1,3 @@
-
 sum = 0
 number_of_numbers = int(input("How many numbers would you like to sum? "))
 
@@ -13,7 +12,8 @@ print ("Sum: " + str(sum))
 total = 0
 how_many_tests = int(input("How many test do you need to average? "))
 
-print("")
+print("\n\t***********\n")
+
 for i in range(how many tests):
     score = float(input("Enter a score: "))
     total = total + score
